@@ -1,9 +1,9 @@
 # MinerGame
-My first ever game, a clone of Doom (sorta) in which you had to kill some Zombies with a pistol while avoiding turrets shooting on proximity.
+My first ever game, a first person shooter and escape the room situation in which you had to kill a big Zombie with a pistol while avoiding turrets shooting on proximity.
 Now being transformed in a pseudo Minecraft-Doom.
 
 I have modified it in order to test new and old things.
-The Zombie and turrets are gone and no clear objective is set (for now) but the mechanics are still in place.
+The Zombies and turrets are gone and no clear objective is set (for now) but the mechanics are still in place.
 The enemies will come back, I promise. They are being made from scratch on another proyect of mine (Survival 3D Game) which features bad guys trying to invade your little wood house.
 
 <br>
