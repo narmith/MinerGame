@@ -1,5 +1,5 @@
 # MinerGame
-My first ever game, a clone of Doom (sorta) in which you had to kill some Zombies with a pistol while aboiding turrets shooting on proximity.
+My first ever game, a clone of Doom (sorta) in which you had to kill some Zombies with a pistol while avoiding turrets shooting on proximity.
 Now being transformed in a pseudo Minecraft-Doom.
 
 I have modified it in order to test new and old things.
